@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\bin\Debug\net6.0\06 evan or odd.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\bin\Debug\net6.0\06 evan or odd.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\bin\Debug\net6.0\06 evan or odd.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\bin\Debug\net6.0\06 evan or odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\bin\Debug\net6.0\06 evan or odd.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\refint\06 evan or odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\06 evan or odd.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 evan or odd\obj\Debug\net6.0\ref\06 evan or odd.dll
