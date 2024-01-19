@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\bin\Debug\net6.0\Average.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\bin\Debug\net6.0\Average.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\bin\Debug\net6.0\Average.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\bin\Debug\net6.0\Average.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\bin\Debug\net6.0\Average.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\refint\Average.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\Average.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Average\obj\Debug\net6.0\ref\Average.dll

@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\bin\Debug\net6.0\atm.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\bin\Debug\net6.0\atm.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\bin\Debug\net6.0\atm.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\bin\Debug\net6.0\atm.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\bin\Debug\net6.0\atm.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\refint\atm.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\atm.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\atm\obj\Debug\net6.0\ref\atm.dll

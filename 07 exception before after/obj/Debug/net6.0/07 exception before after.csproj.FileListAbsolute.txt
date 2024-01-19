@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\bin\Debug\net6.0\07 exception before after.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\bin\Debug\net6.0\07 exception before after.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\bin\Debug\net6.0\07 exception before after.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\bin\Debug\net6.0\07 exception before after.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\bin\Debug\net6.0\07 exception before after.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\refint\07 exception before after.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\07 exception before after.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\07 exception before after\obj\Debug\net6.0\ref\07 exception before after.dll
