@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\bin\Debug\net6.0\03 leap year.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\bin\Debug\net6.0\03 leap year.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\bin\Debug\net6.0\03 leap year.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\bin\Debug\net6.0\03 leap year.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\bin\Debug\net6.0\03 leap year.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\refint\03 leap year.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\03 leap year.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\03 leap year\obj\Debug\net6.0\ref\03 leap year.dll
