@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 isogram", "05 isogram.csproj", "{797806F7-8257-4157-9B45-D06F1E9C3565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797806F7-8257-4157-9B45-D06F1E9C3565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797806F7-8257-4157-9B45-D06F1E9C3565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797806F7-8257-4157-9B45-D06F1E9C3565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797806F7-8257-4157-9B45-D06F1E9C3565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7246165B-DFE9-4A35-8CB4-D0DAC5B10B04}
+	EndGlobalSection
+EndGlobal
