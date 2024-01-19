@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\bin\Debug\net6.0\06 ex  report card.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\bin\Debug\net6.0\06 ex  report card.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\bin\Debug\net6.0\06 ex  report card.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\bin\Debug\net6.0\06 ex  report card.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\bin\Debug\net6.0\06 ex  report card.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\refint\06 ex  report card.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\06 ex  report card.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\06 ex  report card\obj\Debug\net6.0\ref\06 ex  report card.dll
