@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\bin\Debug\net6.0\05 word nest.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\bin\Debug\net6.0\05 word nest.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\bin\Debug\net6.0\05 word nest.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\bin\Debug\net6.0\05 word nest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\bin\Debug\net6.0\05 word nest.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\refint\05 word nest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\05 word nest.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 word nest\obj\Debug\net6.0\ref\05 word nest.dll

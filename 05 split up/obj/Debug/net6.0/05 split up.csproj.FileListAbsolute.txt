@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\bin\Debug\net6.0\05 split up.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\bin\Debug\net6.0\05 split up.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\bin\Debug\net6.0\05 split up.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\bin\Debug\net6.0\05 split up.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\bin\Debug\net6.0\05 split up.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\refint\05 split up.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\05 split up.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\05 split up\obj\Debug\net6.0\ref\05 split up.dll
