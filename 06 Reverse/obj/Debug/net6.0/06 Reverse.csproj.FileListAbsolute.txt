@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\bin\Debug\net6.0\06 Reverse.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\bin\Debug\net6.0\06 Reverse.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\bin\Debug\net6.0\06 Reverse.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\bin\Debug\net6.0\06 Reverse.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\bin\Debug\net6.0\06 Reverse.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\refint\06 Reverse.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\06 Reverse.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\06 Reverse\obj\Debug\net6.0\ref\06 Reverse.dll
