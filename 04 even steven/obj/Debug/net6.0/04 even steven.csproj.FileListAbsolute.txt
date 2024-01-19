@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\bin\Debug\net6.0\04 even steven.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\bin\Debug\net6.0\04 even steven.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\bin\Debug\net6.0\04 even steven.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\bin\Debug\net6.0\04 even steven.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\bin\Debug\net6.0\04 even steven.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\refint\04 even steven.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\04 even steven.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\04 even steven\obj\Debug\net6.0\ref\04 even steven.dll
