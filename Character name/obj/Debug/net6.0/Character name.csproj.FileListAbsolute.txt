@@ -1,0 +1,4 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character name\obj\Debug\net6.0\Character name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character name\obj\Debug\net6.0\Character name.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character name\obj\Debug\net6.0\Character name.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character name\obj\Debug\net6.0\Character name.csproj.CoreCompileInputs.cache

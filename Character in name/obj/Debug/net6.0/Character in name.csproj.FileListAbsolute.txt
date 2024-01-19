@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\bin\Debug\net6.0\Character in name.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\bin\Debug\net6.0\Character in name.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\bin\Debug\net6.0\Character in name.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\bin\Debug\net6.0\Character in name.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\bin\Debug\net6.0\Character in name.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\refint\Character in name.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\Character in name.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\program.cs\Character in name\obj\Debug\net6.0\ref\Character in name.dll
