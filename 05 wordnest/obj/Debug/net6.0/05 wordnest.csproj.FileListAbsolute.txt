@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\bin\Debug\net6.0\05 wordnest.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\bin\Debug\net6.0\05 wordnest.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\bin\Debug\net6.0\05 wordnest.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\bin\Debug\net6.0\05 wordnest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\bin\Debug\net6.0\05 wordnest.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\refint\05 wordnest.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\05 wordnest.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 wordnest\obj\Debug\net6.0\ref\05 wordnest.dll
