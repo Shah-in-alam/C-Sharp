@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\bin\Debug\net6.0\Most smallest  word.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\bin\Debug\net6.0\Most smallest  word.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\bin\Debug\net6.0\Most smallest  word.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\bin\Debug\net6.0\Most smallest  word.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\bin\Debug\net6.0\Most smallest  word.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\refint\Most smallest  word.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\Most smallest  word.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\Most smallest  word\obj\Debug\net6.0\ref\Most smallest  word.dll

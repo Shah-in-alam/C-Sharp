@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\bin\Debug\net6.0\o8 fill it up dictonary.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\bin\Debug\net6.0\o8 fill it up dictonary.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\bin\Debug\net6.0\o8 fill it up dictonary.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\bin\Debug\net6.0\o8 fill it up dictonary.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\bin\Debug\net6.0\o8 fill it up dictonary.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\refint\o8 fill it up dictonary.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\o8 fill it up dictonary.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\o8 fill it up dictonary\obj\Debug\net6.0\ref\o8 fill it up dictonary.dll

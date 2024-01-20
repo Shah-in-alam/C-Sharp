@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o8 fill it up dictonary", "o8 fill it up dictonary.csproj", "{EBCE0ED5-0154-46B0-9CEE-6441785E3864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCE0ED5-0154-46B0-9CEE-6441785E3864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCE0ED5-0154-46B0-9CEE-6441785E3864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCE0ED5-0154-46B0-9CEE-6441785E3864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCE0ED5-0154-46B0-9CEE-6441785E3864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131EF13E-48C5-403E-BE7D-53C0234C4582}
+	EndGlobalSection
+EndGlobal
