@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\bin\Debug\net6.0\07 product.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\bin\Debug\net6.0\07 product.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\bin\Debug\net6.0\07 product.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\bin\Debug\net6.0\07 product.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\bin\Debug\net6.0\07 product.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\refint\07 product.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\07 product.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 product\obj\Debug\net6.0\ref\07 product.dll
