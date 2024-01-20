@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\bin\Debug\net6.0\07 squareroot.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\bin\Debug\net6.0\07 squareroot.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\bin\Debug\net6.0\07 squareroot.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\bin\Debug\net6.0\07 squareroot.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\bin\Debug\net6.0\07 squareroot.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\refint\07 squareroot.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\07 squareroot.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\07 squareroot\obj\Debug\net6.0\ref\07 squareroot.dll
