@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\bin\Debug\net6.0\06 element frequency.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\bin\Debug\net6.0\06 element frequency.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\bin\Debug\net6.0\06 element frequency.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\bin\Debug\net6.0\06 element frequency.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\bin\Debug\net6.0\06 element frequency.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\refint\06 element frequency.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\06 element frequency.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 7\06 element frequency\obj\Debug\net6.0\ref\06 element frequency.dll
