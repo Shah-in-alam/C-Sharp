@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\bin\Debug\net6.0\05 duplicated.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\bin\Debug\net6.0\05 duplicated.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\bin\Debug\net6.0\05 duplicated.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\bin\Debug\net6.0\05 duplicated.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\bin\Debug\net6.0\05 duplicated.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\refint\05 duplicated.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\05 duplicated.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 5\05 duplicated\obj\Debug\net6.0\ref\05 duplicated.dll
