@@ -1,0 +1,14 @@
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\bin\Debug\net6.0\08 out with odd.exe
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\bin\Debug\net6.0\08 out with odd.deps.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\bin\Debug\net6.0\08 out with odd.runtimeconfig.json
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\bin\Debug\net6.0\08 out with odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\bin\Debug\net6.0\08 out with odd.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.AssemblyInfoInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.AssemblyInfo.cs
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\refint\08 out with odd.dll
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.pdb
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\08 out with odd.genruntimeconfig.cache
+C:\Users\MOHAMMAD MIRAZ\OneDrive\Desktop\C# exam preparation\week 8\08 out with odd\obj\Debug\net6.0\ref\08 out with odd.dll
